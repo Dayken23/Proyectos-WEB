@@ -1,0 +1,1238 @@
+div {
+                                                                        width: 110px;
+                                                                        height: 110px;
+                                                                        border: dashed black 2px;
+                                                                        text-align: center;
+                                                                        border-radhius: 4px;
+                                                                    }
+                                                                    
+                                                                    .Numero {
+                                                                        font-size: 15px;
+                                                                        line-height: 0px;
+                                                                    }
+                                                                    
+                                                                    .Masaatomica {
+                                                                        font-size: 13px;
+                                                                        line-height: 0px;
+                                                                    }
+                                                                    
+                                                                    .Simbolo {
+                                                                        font-size: 20px;
+                                                                        line-height: 0px;
+                                                                    }
+                                                                    
+                                                                    .Nombre {
+                                                                        font-size: 10px;
+                                                                        line-height: 0px;
+                                                                    }
+                                                                    
+                                                                    .nometales {
+                                                                        background: rgb(140, 109, 223);
+                                                                        -webkit-transition-duration: 0.9s;
+                                                                    }
+                                                                    
+                                                                    .nometales:hover {
+                                                                        background: rgb(114, 41, 210);
+                                                                        -webkit-transform: scale(1.2);
+                                                                    }
+                                                                    
+                                                                    #eql {
+                                                                        position: absolute;
+                                                                        top: 100px;
+                                                                        left: 100px;
+                                                                    }
+                                                                    
+                                                                    #eql73 {
+                                                                        position: absolute;
+                                                                        top: 217px;
+                                                                        left: 1557px;
+                                                                    }
+                                                                    
+                                                                    #eql67 {
+                                                                        position: absolute;
+                                                                        top: 217px;
+                                                                        left: 1670px;
+                                                                    }
+                                                                    
+                                                                    #eql68 {
+                                                                        position: absolute;
+                                                                        top: 328px;
+                                                                        left: 1670px;
+                                                                    }
+                                                                    
+                                                                    #eql74 {
+                                                                        position: absolute;
+                                                                        top: 217px;
+                                                                        left: 1782px;
+                                                                    }
+                                                                    
+                                                                    #eql75 {
+                                                                        position: absolute;
+                                                                        top: 328px;
+                                                                        left: 1782px;
+                                                                    }
+                                                                    
+                                                                    #eql76 {
+                                                                        position: absolute;
+                                                                        top: 442px;
+                                                                        left: 1782px;
+                                                                    }
+                                                                    
+                                                                    .alcalino {
+                                                                        background: #fb2;
+                                                                        -webkit-transition-duration: 0.9s;
+                                                                    }
+                                                                    
+                                                                    .alcalino:hover {
+                                                                        background: #fb7;
+                                                                        -webkit-transform: scale(1.2);
+                                                                    }
+                                                                    
+                                                                    #eql3 {
+                                                                        position: absolute;
+                                                                        top: 214px;
+                                                                        left: 100px;
+                                                                    }
+                                                                    
+                                                                    #eql4 {
+                                                                        position: absolute;
+                                                                        top: 328px;
+                                                                        left: 100px;
+                                                                    }
+                                                                    
+                                                                    #eql5 {
+                                                                        position: absolute;
+                                                                        top: 442px;
+                                                                        left: 100px;
+                                                                    }
+                                                                    
+                                                                    #eql6 {
+                                                                        position: absolute;
+                                                                        top: 556px;
+                                                                        left: 100px;
+                                                                    }
+                                                                    
+                                                                    #eql7 {
+                                                                        position: absolute;
+                                                                        top: 670px;
+                                                                        left: 100px;
+                                                                    }
+                                                                    
+                                                                    #eql8 {
+                                                                        position: absolute;
+                                                                        top: 784px;
+                                                                        left: 100px;
+                                                                    }
+                                                                    
+                                                                    .alcalinot�rreos {
+                                                                        background: rgb(253, 157, 67);
+                                                                        -webkit-transition-duration: 0.9s;
+                                                                    }
+                                                                    
+                                                                    .alcalinot�rreos:hover {
+                                                                        background: rgb(253, 157, 68);
+                                                                        -webkit-transform: scale(1.2);
+                                                                    }
+                                                                    
+                                                                    #eql9 {
+                                                                        position: absolute;
+                                                                        top: 214px;
+                                                                        left: 213px;
+                                                                    }
+                                                                    
+                                                                    #eql10 {
+                                                                        position: absolute;
+                                                                        top: 328px;
+                                                                        left: 213px;
+                                                                    }
+                                                                    
+                                                                    #eql11 {
+                                                                        position: absolute;
+                                                                        top: 442px;
+                                                                        left: 213px;
+                                                                    }
+                                                                    
+                                                                    #eql12 {
+                                                                        position: absolute;
+                                                                        top: 556px;
+                                                                        left: 213px;
+                                                                    }
+                                                                    
+                                                                    #eql13 {
+                                                                        position: absolute;
+                                                                        top: 670px;
+                                                                        left: 213px;
+                                                                    }
+                                                                    
+                                                                    #eql14 {
+                                                                        position: absolute;
+                                                                        top: 784px;
+                                                                        left: 213px;
+                                                                    }
+                                                                    
+                                                                    .metalesdetransicion {
+                                                                        background: rgb(223, 245, 97);
+                                                                        -webkit-transition-duration: 0.9s;
+                                                                    }
+                                                                    
+                                                                    .metalesdetransicion:hover {
+                                                                        background: rgb(223, 245, 98);
+                                                                        -webkit-transform: scale(1.2);
+                                                                    }
+                                                                    
+                                                                    #eql15 {
+                                                                        position: absolute;
+                                                                        top: 441px;
+                                                                        left: 327px;
+                                                                    }
+                                                                    
+                                                                    #eql16 {
+                                                                        position: absolute;
+                                                                        top: 555px;
+                                                                        left: 327px;
+                                                                    }
+                                                                    
+                                                                    #eql17 {
+                                                                        position: absolute;
+                                                                        top: 669px;
+                                                                        left: 327px;
+                                                                    }
+                                                                    
+                                                                    #eql18 {
+                                                                        position: absolute;
+                                                                        top: 781px;
+                                                                        left: 327px;
+                                                                    }
+                                                                    
+                                                                    #eql19 {
+                                                                        position: absolute;
+                                                                        top: 441px;
+                                                                        left: 441px;
+                                                                    }
+                                                                    
+                                                                    #eql20 {
+                                                                        position: absolute;
+                                                                        top: 554px;
+                                                                        left: 441px;
+                                                                    }
+                                                                    
+                                                                    #eql21 {
+                                                                        position: absolute;
+                                                                        top: 667px;
+                                                                        left: 441px;
+                                                                    }
+                                                                    
+                                                                    #eql22 {
+                                                                        position: absolute;
+                                                                        top: 781px;
+                                                                        left: 441px;
+                                                                    }
+                                                                    
+                                                                    #eql23 {
+                                                                        position: absolute;
+                                                                        top: 442px;
+                                                                        left: 553px;
+                                                                    }
+                                                                    
+                                                                    #eql24 {
+                                                                        position: absolute;
+                                                                        top: 555px;
+                                                                        left: 553px;
+                                                                    }
+                                                                    
+                                                                    #eql25 {
+                                                                        position: absolute;
+                                                                        top: 668px;
+                                                                        left: 553px;
+                                                                    }
+                                                                    
+                                                                    #eql26 {
+                                                                        position: absolute;
+                                                                        top: 781px;
+                                                                        left: 553px;
+                                                                    }
+                                                                    
+                                                                    #eql27 {
+                                                                        position: absolute;
+                                                                        top: 443px;
+                                                                        left: 663px;
+                                                                    }
+                                                                    
+                                                                    #eql28 {
+                                                                        position: absolute;
+                                                                        top: 556px;
+                                                                        left: 663px;
+                                                                    }
+                                                                    
+                                                                    #eql29 {
+                                                                        position: absolute;
+                                                                        top: 669px;
+                                                                        left: 663px;
+                                                                    }
+                                                                    
+                                                                    #eql30 {
+                                                                        position: absolute;
+                                                                        top: 782px;
+                                                                        left: 663px;
+                                                                    }
+                                                                    
+                                                                    #eql31 {
+                                                                        position: absolute;
+                                                                        top: 443px;
+                                                                        left: 775px;
+                                                                    }
+                                                                    
+                                                                    #eql32 {
+                                                                        position: absolute;
+                                                                        top: 557px;
+                                                                        left: 775px;
+                                                                    }
+                                                                    
+                                                                    #eql33 {
+                                                                        position: absolute;
+                                                                        top: 670px;
+                                                                        left: 775px;
+                                                                    }
+                                                                    
+                                                                    #eql34 {
+                                                                        position: absolute;
+                                                                        top: 783px;
+                                                                        left: 775px;
+                                                                    }
+                                                                    
+                                                                    #eql35 {
+                                                                        position: absolute;
+                                                                        top: 443px;
+                                                                        left: 887px;
+                                                                    }
+                                                                    
+                                                                    #eql36 {
+                                                                        position: absolute;
+                                                                        top: 557px;
+                                                                        left: 887px;
+                                                                    }
+                                                                    
+                                                                    #eql37 {
+                                                                        position: absolute;
+                                                                        top: 670px;
+                                                                        left: 887px;
+                                                                    }
+                                                                    
+                                                                    #eql38 {
+                                                                        position: absolute;
+                                                                        top: 783px;
+                                                                        left: 887px;
+                                                                    }
+                                                                    
+                                                                    #eql39 {
+                                                                        position: absolute;
+                                                                        top: 443px;
+                                                                        left: 999px;
+                                                                    }
+                                                                    
+                                                                    #eql40 {
+                                                                        position: absolute;
+                                                                        top: 557px;
+                                                                        left: 999px;
+                                                                    }
+                                                                    
+                                                                    #eql41 {
+                                                                        position: absolute;
+                                                                        top: 670px;
+                                                                        left: 999px;
+                                                                    }
+                                                                    
+                                                                    #eql42 {
+                                                                        position: absolute;
+                                                                        top: 783px;
+                                                                        left: 999px;
+                                                                    }
+                                                                    
+                                                                    #eql43 {
+                                                                        position: absolute;
+                                                                        top: 443px;
+                                                                        left: 1110px;
+                                                                    }
+                                                                    
+                                                                    #eql44 {
+                                                                        position: absolute;
+                                                                        top: 557px;
+                                                                        left: 1110px;
+                                                                    }
+                                                                    
+                                                                    #eql45 {
+                                                                        position: absolute;
+                                                                        top: 670px;
+                                                                        left: 1110px;
+                                                                    }
+                                                                    
+                                                                    #eql46 {
+                                                                        position: absolute;
+                                                                        top: 783px;
+                                                                        left: 1110px;
+                                                                    }
+                                                                    
+                                                                    #eql47 {
+                                                                        position: absolute;
+                                                                        top: 443px;
+                                                                        left: 1220px;
+                                                                    }
+                                                                    
+                                                                    #eql48 {
+                                                                        position: absolute;
+                                                                        top: 557px;
+                                                                        left: 1220px;
+                                                                    }
+                                                                    
+                                                                    #eql49 {
+                                                                        position: absolute;
+                                                                        top: 670px;
+                                                                        left: 1220px;
+                                                                    }
+                                                                    
+                                                                    #eql50 {
+                                                                        position: absolute;
+                                                                        top: 783px;
+                                                                        left: 1220px;
+                                                                    }
+                                                                    
+                                                                    #eql51 {
+                                                                        position: absolute;
+                                                                        top: 443px;
+                                                                        left: 1330px;
+                                                                    }
+                                                                    
+                                                                    #eql52 {
+                                                                        position: absolute;
+                                                                        top: 557px;
+                                                                        left: 1330px;
+                                                                    }
+                                                                    
+                                                                    #eql53 {
+                                                                        position: absolute;
+                                                                        top: 670px;
+                                                                        left: 1330px;
+                                                                    }
+                                                                    
+                                                                    #eql54 {
+                                                                        position: absolute;
+                                                                        top: 783px;
+                                                                        left: 1330px;
+                                                                    }
+                                                                    
+                                                                    .metaloides {
+                                                                        background: rgb(71, 243, 108);
+                                                                        -webkit-transition-duration: 0.9s;
+                                                                    }
+                                                                    
+                                                                    .metaloides:hover {
+                                                                        background: rgb(102, 235, 130);
+                                                                        -webkit-transform: scale(1.2);
+                                                                    }
+                                                                    
+                                                                    #eql55 {
+                                                                        position: absolute;
+                                                                        top: 217px;
+                                                                        left: 1444px;
+                                                                    }
+                                                                    
+                                                                    #eql62 {
+                                                                        position: absolute;
+                                                                        top: 330px;
+                                                                        left: 1557px;
+                                                                    }
+                                                                    
+                                                                    #eql63 {
+                                                                        position: absolute;
+                                                                        top: 443px;
+                                                                        left: 1557px;
+                                                                    }
+                                                                    
+                                                                    #eql69 {
+                                                                        position: absolute;
+                                                                        top: 442px;
+                                                                        left: 1670px;
+                                                                    }
+                                                                    
+                                                                    #eql70 {
+                                                                        position: absolute;
+                                                                        top: 556px;
+                                                                        left: 1670px;
+                                                                    }
+                                                                    
+                                                                    #eql77 {
+                                                                        position: absolute;
+                                                                        top: 555px;
+                                                                        left: 1782px;
+                                                                    }
+                                                                    
+                                                                    #eql78 {
+                                                                        position: absolute;
+                                                                        top: 669px;
+                                                                        left: 1782px;
+                                                                    }
+                                                                    
+                                                                    .otrosmetales {
+                                                                        background: rgb(243, 237, 72);
+                                                                        -webkit-transition-duration: 0.9s;
+                                                                    }
+                                                                    
+                                                                    .otrosmetales:hover {
+                                                                        background: rgb(245, 242, 97);
+                                                                        -webkit-transform: scale(1.2);
+                                                                    }
+                                                                    
+                                                                    #eql56 {
+                                                                        position: absolute;
+                                                                        top: 330px;
+                                                                        left: 1444px;
+                                                                    }
+                                                                    
+                                                                    #eql57 {
+                                                                        position: absolute;
+                                                                        top: 443px;
+                                                                        left: 1444px;
+                                                                    }
+                                                                    
+                                                                    #eql58 {
+                                                                        position: absolute;
+                                                                        top: 557px;
+                                                                        left: 1444px;
+                                                                    }
+                                                                    
+                                                                    #eql59 {
+                                                                        position: absolute;
+                                                                        top: 670px;
+                                                                        left: 1444px;
+                                                                    }
+                                                                    
+                                                                    #eql60 {
+                                                                        position: absolute;
+                                                                        top: 784px;
+                                                                        left: 1444px;
+                                                                    }
+                                                                    
+                                                                    #eql64 {
+                                                                        position: absolute;
+                                                                        top: 557px;
+                                                                        left: 1557px;
+                                                                    }
+                                                                    
+                                                                    #eql65 {
+                                                                        position: absolute;
+                                                                        top: 671px;
+                                                                        left: 1557px;
+                                                                    }
+                                                                    
+                                                                    #eql66 {
+                                                                        position: absolute;
+                                                                        top: 785px;
+                                                                        left: 1557px;
+                                                                    }
+                                                                    
+                                                                    #eql71 {
+                                                                        position: absolute;
+                                                                        top: 670px;
+                                                                        left: 1670px;
+                                                                    }
+                                                                    
+                                                                    #eql72 {
+                                                                        position: absolute;
+                                                                        top: 784px;
+                                                                        left: 1670px;
+                                                                    }
+                                                                    
+                                                                    #eql79 {
+                                                                        position: absolute;
+                                                                        top: 783px;
+                                                                        left: 1782px;
+                                                                    }
+                                                                    
+                                                                    .halogenos {
+                                                                        background: rgb(222, 102, 233);
+                                                                        -webkit-transition-duration: 0.9s;
+                                                                    }
+                                                                    
+                                                                    .halogenos:hover {
+                                                                        background: rgb(190, 75, 212);
+                                                                        -webkit-transform: scale(1.2);
+                                                                    }
+                                                                    
+                                                                    #eql80 {
+                                                                        position: absolute;
+                                                                        top: 217px;
+                                                                        left: 1890px;
+                                                                    }
+                                                                    
+                                                                    #eql81 {
+                                                                        position: absolute;
+                                                                        top: 328px;
+                                                                        left: 1890px;
+                                                                    }
+                                                                    
+                                                                    #eql82 {
+                                                                        position: absolute;
+                                                                        top: 442px;
+                                                                        left: 1890px;
+                                                                    }
+                                                                    
+                                                                    #eql83 {
+                                                                        position: absolute;
+                                                                        top: 556px;
+                                                                        left: 1890px;
+                                                                    }
+                                                                    
+                                                                    #eql85 {
+                                                                        position: absolute;
+                                                                        top: 670px;
+                                                                        left: 1890px;
+                                                                    }
+                                                                    
+                                                                    #eql86 {
+                                                                        position: absolute;
+                                                                        top: 783px;
+                                                                        left: 1890px;
+                                                                    }
+                                                                    
+                                                                    .gasesnobles {
+                                                                        background: rgb(97, 179, 247);
+                                                                        -webkit-transition-duration: 0.9s;
+                                                                    }
+                                                                    
+                                                                    .gasesnobles:hover {
+                                                                        background: rgb(93, 179, 236);
+                                                                        -webkit-transform: scale(1.2);
+                                                                    }
+                                                                    
+                                                                    #eql87 {
+                                                                        position: absolute;
+                                                                        top: 105px;
+                                                                        left: 1995px;
+                                                                    }
+                                                                    
+                                                                    #eql88 {
+                                                                        position: absolute;
+                                                                        top: 217px;
+                                                                        left: 1995px;
+                                                                    }
+                                                                    
+                                                                    #eql89 {
+                                                                        position: absolute;
+                                                                        top: 328px;
+                                                                        left: 1995px;
+                                                                    }
+                                                                    
+                                                                    #eql90 {
+                                                                        position: absolute;
+                                                                        top: 442px;
+                                                                        left: 1995px;
+                                                                    }
+                                                                    
+                                                                    #eql91 {
+                                                                        position: absolute;
+                                                                        top: 556px;
+                                                                        left: 1995px;
+                                                                    }
+                                                                    
+                                                                    #eql92 {
+                                                                        position: absolute;
+                                                                        top: 670px;
+                                                                        left: 1995px;
+                                                                    }
+                                                                    
+                                                                    #eql93 {
+                                                                        position: absolute;
+                                                                        top: 783px;
+                                                                        left: 1995px;
+                                                                    }
+                                                                    
+                                                                    table {
+                                                                        width: 220px;
+                                                                        height: 220px;
+                                                                        border: dashed black 3px;
+                                                                        border-radhius: 4px;
+                                                                    }
+                                                                    
+                                                                    .Numeros {
+                                                                        font-size: 40px;
+                                                                        line-height: 0px;
+                                                                        text-align: right;
+                                                                    }
+                                                                    
+                                                                    .Masaatomicas {
+                                                                        font-size: 33px;
+                                                                        line-height: 0px;
+                                                                        text-align: left;
+                                                                    }
+                                                                    
+                                                                    .Simbolos {
+                                                                        font-size: 65px;
+                                                                        line-height: 0px;
+                                                                        text-align: left;
+                                                                    }
+                                                                    
+                                                                    .Nombres {
+                                                                        font-size: 10px;
+                                                                        line-height: 0px;
+                                                                        text-align: left;
+                                                                    }
+                                                                    
+                                                                    #eql94 {
+                                                                        position: absolute;
+                                                                        top: 155px;
+                                                                        left: 600px
+                                                                    }
+                                                                    
+                                                                    form {
+                                                                        width: 20px;
+                                                                        height: 20px;
+                                                                        border: dashed black 1px;
+                                                                        border-radhius: 4px;
+                                                                    }
+                                                                    
+                                                                    #eql95 {
+                                                                        position: absolute;
+                                                                        top: 185px;
+                                                                        left: 1030px
+                                                                    }
+                                                                    
+                                                                    #eql96 {
+                                                                        position: absolute;
+                                                                        top: 220px;
+                                                                        left: 1030px
+                                                                    }
+                                                                    
+                                                                    #eql97 {
+                                                                        position: absolute;
+                                                                        top: 252px;
+                                                                        left: 1030px
+                                                                    }
+                                                                    
+                                                                    #eql98 {
+                                                                        position: absolute;
+                                                                        top: 284px;
+                                                                        left: 1030px
+                                                                    }
+                                                                    
+                                                                    #eql99 {
+                                                                        position: absolute;
+                                                                        top: 316px;
+                                                                        left: 1030px
+                                                                    }
+                                                                    
+                                                                    #eql100 {
+                                                                        position: absolute;
+                                                                        top: 348px;
+                                                                        left: 1030px
+                                                                    }
+                                                                    
+                                                                    #eql101 {
+                                                                        position: absolute;
+                                                                        top: 185px;
+                                                                        left: 1275px
+                                                                    }
+                                                                    
+                                                                    #eql102 {
+                                                                        position: absolute;
+                                                                        top: 220px;
+                                                                        left: 1275px
+                                                                    }
+                                                                    
+                                                                    #eql103 {
+                                                                        position: absolute;
+                                                                        top: 252px;
+                                                                        left: 1275px
+                                                                    }
+                                                                    
+                                                                    #eql104 {
+                                                                        position: absolute;
+                                                                        top: 284px;
+                                                                        left: 1275px
+                                                                    }
+                                                                    
+                                                                    #eql105 {
+                                                                        position: absolute;
+                                                                        top: 316px;
+                                                                        left: 1275px
+                                                                    }
+                                                                    
+                                                                    .lantánidos {
+                                                                        background: rgb(185, 250, 155);
+                                                                        -webkit-transition-duration: 0.9s;
+                                                                    }
+                                                                    
+                                                                    .lantánidos:hover {
+                                                                        background: rgb(169, 230, 113);
+                                                                        -webkit-transform: scale(1.2);
+                                                                    }
+                                                                    
+                                                                    .actínidos {
+                                                                        background: rgb(146, 247, 100);
+                                                                        -webkit-transition-duration: 0.9s;
+                                                                    }
+                                                                    
+                                                                    .actínidos:hover {
+                                                                        background: rgb(162, 240, 89);
+                                                                        -webkit-transform: scale(1.2);
+                                                                    }
+                                                                    
+                                                                    #eql106 {
+                                                                        position: absolute;
+                                                                        top: 937px;
+                                                                        left: 510px;
+                                                                    }
+                                                                    
+                                                                    #eql107 {
+                                                                        position: absolute;
+                                                                        top: 1050px;
+                                                                        left: 510px;
+                                                                    }
+                                                                    
+                                                                    #eql108 {
+                                                                        position: absolute;
+                                                                        top: 937px;
+                                                                        left: 620px;
+                                                                    }
+                                                                    
+                                                                    #eql109 {
+                                                                        position: absolute;
+                                                                        top: 1050px;
+                                                                        left: 620px;
+                                                                    }
+                                                                    
+                                                                    #eql110 {
+                                                                        position: absolute;
+                                                                        top: 937px;
+                                                                        left: 730px;
+                                                                    }
+                                                                    
+                                                                    #eql111 {
+                                                                        position: absolute;
+                                                                        top: 1050px;
+                                                                        left: 730px;
+                                                                    }
+                                                                    
+                                                                    #eql112 {
+                                                                        position: absolute;
+                                                                        top: 937px;
+                                                                        left: 840px;
+                                                                    }
+                                                                    
+                                                                    #eql113 {
+                                                                        position: absolute;
+                                                                        top: 1050px;
+                                                                        left: 840px;
+                                                                    }
+                                                                    
+                                                                    #eql114 {
+                                                                        position: absolute;
+                                                                        top: 937px;
+                                                                        left: 950px;
+                                                                    }
+                                                                    
+                                                                    #eql115 {
+                                                                        position: absolute;
+                                                                        top: 1050px;
+                                                                        left: 950px;
+                                                                    }
+                                                                    
+                                                                    #eql116 {
+                                                                        position: absolute;
+                                                                        top: 937px;
+                                                                        left: 1060px;
+                                                                    }
+                                                                    
+                                                                    #eql117 {
+                                                                        position: absolute;
+                                                                        top: 1050px;
+                                                                        left: 1060px;
+                                                                    }
+                                                                    
+                                                                    #eql118 {
+                                                                        position: absolute;
+                                                                        top: 937px;
+                                                                        left: 1170px;
+                                                                    }
+                                                                    
+                                                                    #eql119 {
+                                                                        position: absolute;
+                                                                        top: 1050px;
+                                                                        left: 1170px;
+                                                                    }
+                                                                    
+                                                                    #eql120 {
+                                                                        position: absolute;
+                                                                        top: 937px;
+                                                                        left: 1280px;
+                                                                    }
+                                                                    
+                                                                    #eql121 {
+                                                                        position: absolute;
+                                                                        top: 1050px;
+                                                                        left: 1280px;
+                                                                    }
+                                                                    
+                                                                    #eql122 {
+                                                                        position: absolute;
+                                                                        top: 937px;
+                                                                        left: 1390px;
+                                                                    }
+                                                                    
+                                                                    #eql123 {
+                                                                        position: absolute;
+                                                                        top: 1050px;
+                                                                        left: 1390px;
+                                                                    }
+                                                                    
+                                                                    #eql124 {
+                                                                        position: absolute;
+                                                                        top: 937px;
+                                                                        left: 1500px;
+                                                                    }
+                                                                    
+                                                                    #eql125 {
+                                                                        position: absolute;
+                                                                        top: 1050px;
+                                                                        left: 1500px;
+                                                                    }
+                                                                    
+                                                                    #eql126 {
+                                                                        position: absolute;
+                                                                        top: 937px;
+                                                                        left: 1610px;
+                                                                    }
+                                                                    
+                                                                    #eql127 {
+                                                                        position: absolute;
+                                                                        top: 1050px;
+                                                                        left: 1610px;
+                                                                    }
+                                                                    
+                                                                    #eql128 {
+                                                                        position: absolute;
+                                                                        top: 937px;
+                                                                        left: 1720px;
+                                                                    }
+                                                                    
+                                                                    #eql129 {
+                                                                        position: absolute;
+                                                                        top: 1050px;
+                                                                        left: 1720px;
+                                                                    }
+                                                                    
+                                                                    #eql130 {
+                                                                        position: absolute;
+                                                                        top: 937px;
+                                                                        left: 1830px;
+                                                                    }
+                                                                    
+                                                                    #eql131 {
+                                                                        position: absolute;
+                                                                        top: 1050px;
+                                                                        left: 1830px;
+                                                                    }
+                                                                    
+                                                                    #eql132 {
+                                                                        position: absolute;
+                                                                        top: 937px;
+                                                                        left: 1940px;
+                                                                    }
+                                                                    
+                                                                    #eql133 {
+                                                                        position: absolute;
+                                                                        top: 1050px;
+                                                                        left: 1940px;
+                                                                    }
+                                                                    
+                                                                    .elementosdesconocidos1 {
+                                                                        background: gray;
+                                                                        -webkit-transition-duration: 0.9s;
+                                                                    }
+                                                                    
+                                                                    .elementosdesconocidos1:hover {
+                                                                        background: lightgray;
+                                                                        -webkit-transform: scale(1.2);
+                                                                    }
+                                                                    
+                                                                    .grupo {
+                                                                        position: absolute;
+                                                                        top: 60px;
+                                                                        left: 130px;
+                                                                    }
+                                                                    
+                                                                    .columna2 {
+                                                                        position: absolute;
+                                                                        top: 180px;
+                                                                        left: 260px;
+                                                                    }
+                                                                    
+                                                                    .columna3 {
+                                                                        position: absolute;
+                                                                        top: 405px;
+                                                                        left: 380px;
+                                                                    }
+                                                                    
+                                                                    .columna4 {
+                                                                        position: absolute;
+                                                                        top: 405px;
+                                                                        left: 490px;
+                                                                    }
+                                                                    
+                                                                    .columna5 {
+                                                                        position: absolute;
+                                                                        top: 405px;
+                                                                        left: 600px;
+                                                                    }
+                                                                    
+                                                                    .columna6 {
+                                                                        position: absolute;
+                                                                        top: 405px;
+                                                                        left: 710px;
+                                                                    }
+                                                                    
+                                                                    .columna7 {
+                                                                        position: absolute;
+                                                                        top: 405px;
+                                                                        left: 820px;
+                                                                    }
+                                                                    
+                                                                    .columna8 {
+                                                                        position: absolute;
+                                                                        top: 405px;
+                                                                        left: 930px;
+                                                                    }
+                                                                    
+                                                                    .columna9 {
+                                                                        position: absolute;
+                                                                        top: 405px;
+                                                                        left: 1040px;
+                                                                    }
+                                                                    
+                                                                    .columna10 {
+                                                                        position: absolute;
+                                                                        top: 405px;
+                                                                        left: 1150px;
+                                                                    }
+                                                                    
+                                                                    .columna11 {
+                                                                        position: absolute;
+                                                                        top: 405px;
+                                                                        left: 1260px;
+                                                                    }
+                                                                    
+                                                                    .columna12 {
+                                                                        position: absolute;
+                                                                        top: 405px;
+                                                                        left: 1370px;
+                                                                    }
+                                                                    
+                                                                    .columna13 {
+                                                                        position: absolute;
+                                                                        top: 180px;
+                                                                        left: 1490px;
+                                                                    }
+                                                                    
+                                                                    .columna14 {
+                                                                        position: absolute;
+                                                                        top: 180px;
+                                                                        left: 1600px;
+                                                                    }
+                                                                    
+                                                                    .columna15 {
+                                                                        position: absolute;
+                                                                        top: 180px;
+                                                                        left: 1710px;
+                                                                    }
+                                                                    
+                                                                    .columna16 {
+                                                                        position: absolute;
+                                                                        top: 180px;
+                                                                        left: 1820px;
+                                                                    }
+                                                                    
+                                                                    .columna17 {
+                                                                        position: absolute;
+                                                                        top: 180px;
+                                                                        left: 1930px;
+                                                                    }
+                                                                    
+                                                                    .columna18 {
+                                                                        position: absolute;
+                                                                        top: 70px;
+                                                                        left: 2030px;
+                                                                    }
+                                                                    
+                                                                    .periodo {
+                                                                        position: absolute;
+                                                                        top: 130px;
+                                                                        left: 33px;
+                                                                    }
+                                                                    
+                                                                    .numero2 {
+                                                                        position: absolute;
+                                                                        top: 250px;
+                                                                        left: 85px;
+                                                                    }
+                                                                    
+                                                                    .numero3 {
+                                                                        position: absolute;
+                                                                        top: 360px;
+                                                                        left: 85px;
+                                                                    }
+                                                                    
+                                                                    .numero4 {
+                                                                        position: absolute;
+                                                                        top: 470px;
+                                                                        left: 85px;
+                                                                    }
+                                                                    
+                                                                    .numero5 {
+                                                                        position: absolute;
+                                                                        top: 580px;
+                                                                        left: 85px;
+                                                                    }
+                                                                    
+                                                                    .numero6 {
+                                                                        position: absolute;
+                                                                        top: 690px;
+                                                                        left: 85px;
+                                                                    }
+                                                                    
+                                                                    .numero7 {
+                                                                        position: absolute;
+                                                                        top: 800px;
+                                                                        left: 85px;
+                                                                    }
+                                                                    
+                                                                    .segundacolumna {
+                                                                        position: absolute;
+                                                                        top: 179px;
+                                                                        left: 260px;
+                                                                    }
+                                                                    
+                                                                    .terceracolumna {
+                                                                        position: absolute;
+                                                                        top: 405px;
+                                                                        left: 375px;
+                                                                    }
+                                                                    
+                                                                    .cuartacolumna {
+                                                                        position: absolute;
+                                                                        top: 407px;
+                                                                        left: 490px;
+                                                                    }
+                                                                    
+                                                                    .quintacolumna {
+                                                                        position: absolute;
+                                                                        top: 409px;
+                                                                        left: 603px;
+                                                                    }
+                                                                    
+                                                                    .sextacolumna {
+                                                                        position: absolute;
+                                                                        top: 410px;
+                                                                        left: 711px;
+                                                                    }
+                                                                    
+                                                                    .septimacolumna {
+                                                                        position: absolute;
+                                                                        top: 410px;
+                                                                        left: 820px;
+                                                                    }
+                                                                    
+                                                                    .numeroatomico {
+                                                                        position: absolute;
+                                                                        top: 140px;
+                                                                        left: 827px;
+                                                                    }
+                                                                    
+                                                                    .simboloquimico {
+                                                                        position: absolute;
+                                                                        top: 250px;
+                                                                        left: 420px;
+                                                                    }
+                                                                    
+                                                                    .Masaatomica1 {
+                                                                        position: absolute;
+                                                                        top: 195px;
+                                                                        left: 435px;
+                                                                    }
+                                                                    
+                                                                    .Nombre1 {
+                                                                        position: absolute;
+                                                                        top: 329px;
+                                                                        left: 481px;
+                                                                    }
+                                                                    
+                                                                    .tp {
+                                                                        position: absolute;
+                                                                        top: 80px;
+                                                                        left: 1150px;
+                                                                        font-size: 43px;
+                                                                    }
+                                                                    
+                                                                    .metalesalcalinos {
+                                                                        position: absolute;
+                                                                        top: 165px;
+                                                                        left: 1062px;
+                                                                    }
+                                                                    
+                                                                    .alcalinotérreos {
+                                                                        position: absolute;
+                                                                        top: 198px;
+                                                                        left: 1062px;
+                                                                    }
+                                                                    
+                                                                    .otrosmetales1 {
+                                                                        position: absolute;
+                                                                        top: 230px;
+                                                                        left: 1062px;
+                                                                    }
+                                                                    
+                                                                    .metalesdetransición {
+                                                                        position: absolute;
+                                                                        top: 262px;
+                                                                        left: 1062px;
+                                                                    }
+                                                                    
+                                                                    .lantánidos1 {
+                                                                        position: absolute;
+                                                                        top: 294px;
+                                                                        left: 1062px;
+                                                                    }
+                                                                    
+                                                                    .actínidos1 {
+                                                                        position: absolute;
+                                                                        top: 326px;
+                                                                        left: 1062px;
+                                                                    }
+                                                                    
+                                                                    .metaloides1 {
+                                                                        position: absolute;
+                                                                        top: 165px;
+                                                                        left: 1309px;
+                                                                    }
+                                                                    
+                                                                    .nometales1 {
+                                                                        position: absolute;
+                                                                        top: 198px;
+                                                                        left: 1309px;
+                                                                    }
+                                                                    
+                                                                    .halogenos1 {
+                                                                        position: absolute;
+                                                                        top: 230px;
+                                                                        left: 1309px;
+                                                                    }
+                                                                    
+                                                                    .gasesnobles1 {
+                                                                        position: absolute;
+                                                                        top: 262px;
+                                                                        left: 1309px;
+                                                                    }
+                                                                    
+                                                                    .elementosdesconocidos {
+                                                                        position: absolute;
+                                                                        top: 294px;
+                                                                        left: 1309px;
+                                                                    }
