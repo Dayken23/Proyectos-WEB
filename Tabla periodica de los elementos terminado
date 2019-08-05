@@ -1,0 +1,973 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Tabla periodica</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="tp.css">
+</head>
+
+<body>
+    <!---Primera columna -->
+    <div class="nometales" id="eql">
+        <p class="Numero">1</p>
+        <p class="masa atomica">1.00794</p>
+        <p class="Simbolo">H</p>
+        <p class="nombre">Hidrogeno</p>
+    </div>
+
+    <div class="alcalino" id="eql3">
+        <p class="Numero">3</p>
+        <p class="masa atomica">6.941</p>
+        <p class="Simbolo">Li</p>
+        <p class="nombre">Litio</p>
+    </div>
+
+    <div class="alcalino" id="eql4">
+        <p class="Numero">11</p>
+        <p class="masa atomica">22.98976</p>
+        <p class="Simbolo">Na</p>
+        <p class="nombre">Sodio</p>
+    </div>
+    <div class="alcalino" id="eql5">
+        <p class="Numero">19</p>
+        <p class="masa atomica">39.0983</p>
+        <p class="Simbolo">K</p>
+        <p class="nombre">Potasio</p>
+    </div>
+    <div class="alcalino" id="eql6">
+        <p class="Numero">37</p>
+        <p class="masa atomica">85.4678</p>
+        <p class="Simbolo">Rb</p>
+        <p class="nombre">Rubidio</p>
+    </div>
+    <div class="alcalino" id="eql7">
+        <p class="Numero">55</p>
+        <p class="masa atomica">132.9054</p>
+        <p class="Simbolo">Cs</p>
+        <p class="nombre">Cesio</p>
+    </div>
+    <div class="alcalino" id="eql8">
+        <p class="Numero">1</p>
+        <p class="masa atomica">(223)</p>
+        <p class="Simbolo">Fr</p>
+        <p class="nombre">Francio</p>
+    </div>
+
+
+
+    <!---segunda columna -->
+    <div class="alcalinot�rreos" id="eql9">
+        <p class="Numero">4</p>
+        <p class="masa atomica">9.012182</p>
+        <p class="Simbolo">Be</p>
+        <p class="nombre">Berilio</p>
+    </div>
+    <div class="alcalinot�rreos" id="eql10">
+        <p class="Numero">12</p>
+        <p class="masa atomica">24.3050</p>
+        <p class="Simbolo">Mg</p>
+        <p class="nombre">Magnesio</p>
+    </div>
+    <div class="alcalinot�rreos" id="eql11">
+        <p class="Numero">20</p>
+        <p class="masa atomica">40.078</p>
+        <p class="Simbolo">Ca</p>
+        <p class="nombre">Calcio</p>
+    </div>
+    <div class="alcalinot�rreos" id="eql12">
+        <p class="Numero">38</p>
+        <p class="masa atomica">87.62</p>
+        <p class="Simbolo">Sr</p>
+        <p class="nombre">Estroncio</p>
+    </div>
+    <div class="alcalinot�rreos" id="eql13">
+        <p class="Numero">56</p>
+        <p class="masa atomica">137.327</p>
+        <p class="Simbolo">Ba</p>
+        <p class="nombre">Bario</p>
+    </div>
+    <div class="alcalinot�rreos" id="eql14">
+        <p class="Numero">88</p>
+        <p class="masa atomica">(226)</p>
+        <p class="Simbolo">Ra</p>
+        <p class="nombre">Radio</p>
+    </div>
+
+
+
+    <!---tercera columna -->
+    <div class="metalesdetransicion" id="eql15">
+        <p class="Numero">21</p>
+        <p class="masa atomica">44.95591</p>
+        <p class="Simbolo">Sc</p>
+        <p class="nombre">Escandio</p>
+    </div>
+    <div class="metalesdetransicion" id="eql16">
+        <p class="Numero">39</p>
+        <p class="masa atomica">88.90585</p>
+        <p class="Simbolo">Y</p>
+        <p class="nombre">Itrio</p>
+    </div>
+    <div class="metalesdetransicion" id="eql17">
+        <p class="Numero">71</p>
+        <p class="masa atomica">174.96681</p>
+        <p class="Simbolo">Lu</p>
+        <p class="nombre">Lutecio</p>
+    </div>
+    <div class="metalesdetransicion" id="eql18">
+        <p class="Numero">103</p>
+        <p class="masa atomica">(262)</p>
+        <p class="Simbolo">Lr</p>
+        <p class="nombre">Laurencio</p>
+    </div>
+
+    <!---cuarta columna -->
+    <div class="metalesdetransicion" id="eql19">
+        <p class="Numero">22</p>
+        <p class="masa atomica">47.867</p>
+        <p class="Simbolo">Ti</p>
+        <p class="nombre">Titanio</p>
+    </div>
+    <div class="metalesdetransicion" id="eql20">
+        <p class="Numero">40</p>
+        <p class="masa atomica">91.224</p>
+        <p class="Simbolo">Zr</p>
+        <p class="nombre">Zirconio</p>
+    </div>
+    <div class="metalesdetransicion" id="eql21">
+        <p class="Numero">72</p>
+        <p class="masa atomica">178.49</p>
+        <p class="Simbolo">Hf</p>
+        <p class="nombre">Hafnio</p>
+    </div>
+    <div class="metalesdetransicion" id="eql22">
+        <p class="Numero">104</p>
+        <p class="masa atomica">(261)</p>
+        <p class="Simbolo">Rf</p>
+        <p class="nombre">Rutherfordio</p>
+    </div>
+
+    <!---quinta columna -->
+    <div class="metalesdetransicion" id="eql23">
+        <p class="Numero">23</p>
+        <p class="masa atomica">50.9415</p>
+        <p class="Simbolo">V</p>
+        <p class="nombre">Vanadio</p>
+    </div>
+    <div class="metalesdetransicion" id="eql24">
+        <p class="Numero">41</p>
+        <p class="masa atomica">92.90638</p>
+        <p class="Simbolo">Nb</p>
+        <p class="nombre">Niobio</p>
+    </div>
+    <div class="metalesdetransicion" id="eql25">
+        <p class="Numero">73</p>
+        <p class="masa atomica">180.9478</p>
+        <p class="Simbolo">Ta</p>
+        <p class="nombre">Tantalio</p>
+    </div>
+    <div class="metalesdetransicion" id="eql26">
+        <p class="Numero">105</p>
+        <p class="masa atomica">(262)</p>
+        <p class="Simbolo">Db</p>
+        <p class="nombre">Dubnio</p>
+    </div>
+
+    <!---Sexta columna -->
+    <div class="metalesdetransicion" id="eql27">
+        <p class="Numero">24</p>
+        <p class="masa atomica">51.9962</p>
+        <p class="Simbolo">Cr</p>
+        <p class="nombre">Cromo</p>
+    </div>
+    <div class="metalesdetransicion" id="eql28">
+        <p class="Numero">42</p>
+        <p class="masa atomica">95.96</p>
+        <p class="Simbolo">Mo</p>
+        <p class="nombre">Molibdeno</p>
+    </div>
+    <div class="metalesdetransicion" id="eql29">
+        <p class="Numero">74</p>
+        <p class="masa atomica">178.49</p>
+        <p class="Simbolo">w</p>
+        <p class="nombre">Hafnio</p>
+    </div>
+    <div class="metalesdetransicion" id="eql30">
+        <p class="Numero">106</p>
+        <p class="masa atomica">(266)</p>
+        <p class="Simbolo">Sg</p>
+        <p class="nombre">Seaborgio</p>
+    </div>
+    <!---Septima columna -->
+    <div class="metalesdetransicion" id="eql31">
+        <p class="Numero">25</p>
+        <p class="masa atomica">54.93804</p>
+        <p class="Simbolo">Mn</p>
+        <p class="nombre">Manganeso</p>
+    </div>
+    <div class="metalesdetransicion" id="eql32">
+        <p class="Numero">43</p>
+        <p class="masa atomica">(98)</p>
+        <p class="Simbolo">Tc</p>
+        <p class="nombre">Tecnecio</p>
+    </div>
+    <div class="metalesdetransicion" id="eql33">
+        <p class="Numero">75</p>
+        <p class="masa atomica">186.207</p>
+        <p class="Simbolo">Re</p>
+        <p class="nombre">Renio</p>
+    </div>
+    <div class="metalesdetransicion" id="eql34">
+        <p class="Numero">107</p>
+        <p class="masa atomica">(264)</p>
+        <p class="Simbolo">Bh</p>
+        <p class="nombre">Bohrio</p>
+    </div>
+
+
+    <!---Octava columna -->
+    <div class="metalesdetransicion" id="eql35">
+        <p class="Numero">26</p>
+        <p class="masa atomica">55.845</p>
+        <p class="Simbolo">Fe</p>
+        <p class="nombre">Hierro</p>
+    </div>
+    <div class="metalesdetransicion" id="eql36">
+        <p class="Numero">44</p>
+        <p class="masa atomica">101.07</p>
+        <p class="Simbolo">Ru</p>
+        <p class="nombre">Rutenio</p>
+    </div>
+    <div class="metalesdetransicion" id="eql37">
+        <p class="Numero">76</p>
+        <p class="masa atomica">190.23</p>
+        <p class="Simbolo">Os</p>
+        <p class="nombre">Hafnio</p>
+    </div>
+    <div class="metalesdetransicion" id="eql38">
+        <p class="Numero">108</p>
+        <p class="masa atomica">(277)</p>
+        <p class="Simbolo">Hs</p>
+        <p class="nombre">Hassio</p>
+    </div>
+
+
+
+    <!---Novena columna -->
+    <div class="metalesdetransicion" id="eql39">
+        <p class="Numero">27</p>
+        <p class="masa atomica">58.93319</p>
+        <p class="Simbolo">Co</p>
+        <p class="nombre">Cobalto</p>
+    </div>
+    <div class="metalesdetransicion" id="eql40">
+        <p class="Numero">45</p>
+        <p class="masa atomica">102.9055</p>
+        <p class="Simbolo">Rh</p>
+        <p class="nombre">Rodio</p>
+    </div>
+    <div class="metalesdetransicion" id="eql41">
+        <p class="Numero">77</p>
+        <p class="masa atomica">192.217</p>
+        <p class="Simbolo">Ir</p>
+        <p class="nombre">Iridio</p>
+    </div>
+    <div class="metalesdetransicion" id="eql42">
+        <p class="Numero">109</p>
+        <p class="masa atomica">(268)</p>
+        <p class="Simbolo">Mt</p>
+        <p class="nombre">Meitnerio</p>
+    </div>
+
+    <!---Decima columna -->
+    <div class="metalesdetransicion" id="eql43">
+        <p class="Numero">28</p>
+        <p class="masa atomica">58.6934</p>
+        <p class="Simbolo">Ni</p>
+        <p class="nombre">Niquel</p>
+    </div>
+    <div class="metalesdetransicion" id="eql44">
+        <p class="Numero">46</p>
+        <p class="masa atomica">106.42</p>
+        <p class="Simbolo">Pd</p>
+        <p class="nombre">Paladio</p>
+    </div>
+    <div class="metalesdetransicion" id="eql45">
+        <p class="Numero">78</p>
+        <p class="masa atomica">195.084</p>
+        <p class="Simbolo">Pt</p>
+        <p class="nombre">Platino</p>
+    </div>
+    <div class="metalesdetransicion" id="eql46">
+        <p class="Numero">106</p>
+        <p class="masa atomica">(271)</p>
+        <p class="Simbolo">Ds</p>
+        <p class="nombre">Darmstatio</p>
+    </div>
+
+    <!---Undecima columna -->
+    <div class="metalesdetransicion" id="eql47">
+        <p class="Numero">29</p>
+        <p class="masa atomica">63.546</p>
+        <p class="Simbolo">Cu</p>
+        <p class="nombre">Cobre</p>
+    </div>
+    <div class="metalesdetransicion" id="eql48">
+        <p class="Numero">47</p>
+        <p class="masa atomica">107.8682</p>
+        <p class="Simbolo">Ag</p>
+        <p class="nombre">Plata</p>
+    </div>
+    <div class="metalesdetransicion" id="eql49">
+        <p class="Numero">79</p>
+        <p class="masa atomica">196.9665</p>
+        <p class="Simbolo">Au</p>
+        <p class="nombre">Oro</p>
+    </div>
+    <div class="metalesdetransicion" id="eql50">
+        <p class="Numero">111</p>
+        <p class="masa atomica">(272)</p>
+        <p class="Simbolo">Rg</p>
+        <p class="nombre">Roentgenio</p>
+    </div>
+
+    <!---Duodecima columna -->
+    <div class="metalesdetransicion" id="eql51">
+        <p class="Numero">30</p>
+        <p class="masa atomica">65.38</p>
+        <p class="Simbolo">Zn</p>
+        <p class="nombre">Zinc</p>
+    </div>
+    <div class="metalesdetransicion" id="eql52">
+        <p class="Numero">48</p>
+        <p class="masa atomica">112.441</p>
+        <p class="Simbolo">Cd</p>
+        <p class="nombre">Cadmio</p>
+    </div>
+    <div class="metalesdetransicion" id="eql53">
+        <p class="Numero">80</p>
+        <p class="masa atomica">200.59</p>
+        <p class="Simbolo">Hg</p>
+        <p class="nombre">Mercurio</p>
+    </div>
+    <div class="metalesdetransicion" id="eql54">
+        <p class="Numero">112</p>
+        <p class="masa atomica">(285)</p>
+        <p class="Simbolo">Cn</p>
+        <p class="nombre">Copernicio</p>
+    </div>
+
+    <!---triodecima columna -->
+    <div class="metaloides" id="eql55">
+        <p class="Numero">5</p>
+        <p class="masa atomica">10.811</p>
+        <p class="Simbolo">B</p>
+        <p class="nombre">Boro</p>
+    </div>
+    <div class="otrosmetales" id="eql56">
+        <p class="Numero">13</p>
+        <p class="masa atomica">26.98153</p>
+        <p class="Simbolo">Al</p>
+        <p class="nombre">Aluminio</p>
+    </div>
+    <div class="otrosmetales" id="eql57">
+        <p class="Numero">31</p>
+        <p class="masa atomica">69.723</p>
+        <p class="Simbolo">Ga</p>
+        <p class="nombre">Galio</p>
+    </div>
+    <div class="otrosmetales" id="eql58">
+        <p class="Numero">49</p>
+        <p class="masa atomica">114.818</p>
+        <p class="Simbolo">In</p>
+        <p class="nombre">Indio</p>
+    </div>
+    <div class="otrosmetales" id="eql59">
+        <p class="Numero">81</p>
+        <p class="masa atomica">204.3833</p>
+        <p class="Simbolo">Tl</p>
+        <p class="nombre">Talio</p>
+    </div>
+    <div class="otrosmetales" id="eql60">
+        <p class="Numero">113</p>
+        <p class="masa atomica">(284)</p>
+        <p class="Simbolo">Nh</p>
+        <p class="nombre">Nihonio</p>
+    </div>
+
+    <!---cuartadecima columna -->
+    <div class="nometales" id="eql73">
+        <p class="Numero">6</p>
+        <p class="Numero">12.0107</p>
+        <p class="Simbolo">C</p>
+        <p class="Simbolo">Carbono</p>
+    </div>
+
+    <div class="metaloides" id="eql62">
+        <p class="Numero">14</p>
+        <span style="font-family: FuturaBT-Book; font-size: 12px; text-align: start; white-space: nowrap;">28.0855</span><br />
+        <p class="masa atomica">
+            <span style="font-size: 20px;">Si</span></p>
+        <p class="masa atomica">
+            Silicio</p>
+    </div>
+
+    <div class="metaloides" id="eql63">
+        <p class="Numero">32</p>
+        <p class="masa atomica">72.64</p>
+        <p class="Simbolo">Ge</p>
+        <p class="nombre">Germanio</p>
+    </div>
+    <div class="otrosmetales" id="eql64">
+        <p class="Numero">50</p>
+        <p class="masa atomica">118.710</p>
+        <p class="Simbolo">Sn</p>
+        <p class="nombre">Estano</p>
+    </div>
+    <div class="otrosmetales" id="eql65">
+        <p class="Numero">82</p>
+        <p class="masa atomica">207.2</p>
+        <p class="Simbolo">Pb</p>
+        <p class="nombre">Plomo</p>
+    </div>
+    <div class="otrosmetales" id="eql66">
+        <p class="Numero">82</p>
+        <p class="masa atomica">(289)</p>
+        <p class="Simbolo">Fl</p>
+        <p class="nombre">Flerovio</p>
+    </div>
+
+    <!---quintadecima columna -->
+    <div class="nometales" id="eql67">
+        <p class="Numero">7</p>
+        <p class="masa atomica">14.0067</p>
+        <p class="Simbolo">N</p>
+        <p class="nombre">Nitrogeno</p>
+    </div>
+    <div class="nometales" id="eql68">
+        <p class="Numero">15</p>
+        <p class="masa atomica">30.97696</p>
+        <p class="masa atomica">
+            <span style="font-size: 20px;">P</span></p>
+        <p class="masa atomica">Fosforo</p>
+    </div>
+
+    <div class="metaloides" id="eql69">
+        <p class="Numero">33</p>
+        <p class="masa atomica">178.49</p>
+        <p class="Simbolo">As</p>
+        <p class="nombre">Arsonico</p>
+    </div>
+    <div class="metaloides" id="eql70">
+        <p class="Numero">51</p>
+        <p class="masa atomica">121.760</p>
+        <p class="Simbolo">Sb</p>
+        <p class="nombre">Antimonio</p>
+    </div>
+    <div class="otrosmetales" id="eql71">
+        <p class="Numero">83</p>
+        <p class="masa atomica">208.9804</p>
+        <p class="Simbolo">Bi</p>
+        <p class="nombre">Bismuto</p>
+    </div>
+    <div class="otrosmetales" id="eql72">
+        <p class="Numero">115</p>
+        <p class="masa atomica">(288)</p>
+        <p class="Simbolo">Mc</p>
+        <p class="nombre">Moscovio</p>
+    </div>
+    <!---sextadecima columna -->
+    <div class="nometales" id="eql74">
+        <p class="Numero"> 8</p>
+        <p class="masa atomica">15.9994</p>
+        <p class="Simbolo">O</p>
+        <p class="nombre">Oxigeno</p>
+    </div>
+    <div class="nometales" id="eql75">
+        <p class="Numero">16</p>
+        <p class="masa atomica">32.065</p>
+        <p class="Simbolo">S</p>
+        <p class="nombre">Azufre</p>
+    </div>
+    <div class="nometales" id="eql76">
+        <p class="Numero">34</p>
+        <p class="masa atomica">78.96</p>
+        <p class="Simbolo">Se</p>
+        <p class="nombre">Selenio</p>
+    </div>
+    <div class="metaloides" id="eql77">
+        <p class="Numero">52</p>
+        <p class="masa atomica">127.60</p>
+        <p class="Simbolo">Te</p>
+        <p class="nombre">Telurio</p>
+    </div>
+    <div class="metaloides" id="eql78">
+        <p class="Numero">84</p>
+        <p class="masa atomica">(210)</p>
+        <p class="Simbolo">Po</p>
+        <p class="nombre">Polonio</p>
+    </div>
+    <div class="otrosmetales" id="eql79">
+        <p class="Numero">116</p>
+        <p class="masa atomica">(292)</p>
+        <p class="Simbolo">Lv</p>
+        <p class="nombre">Livermorio</p>
+    </div>
+
+
+    <!---sextadecima columna -->
+    <div class="nometales" id="eql74">
+        <p class="Numero">
+            8</p>
+        <p class="masa atomica">
+            15.9994</p>
+        <p class="masa atomica">
+            O</p>
+        <p class="masa atomica">
+            Oxigeno</p>
+        <p class="nombre">
+            Zirconio</p>
+    </div>
+    <div class="nometales" id="eql75">
+        <p class="Numero">
+            16</p>
+        <p class="masa atomica">
+            32.065</p>
+        <p class="Simbolo">
+            S</p>
+        <p class="nombre">
+            Azufre</p>
+    </div>
+    <div class="nometales" id="eql76">
+        <p class="Numero">
+            34</p>
+        <p class="masa atomica">
+            78.96</p>
+        <p class="Simbolo">
+            Se</p>
+        <p class="nombre">
+            Selenio</p>
+    </div>
+    <div class="metaloides" id="eql77">
+        <p class="Numero">
+            52</p>
+        <p class="masa atomica">
+            127.60</p>
+        <p class="Simbolo">
+            Te</p>
+        <p class="nombre">
+            Teturio</p>
+    </div>
+    <div class="metaloides" id="eql78">
+        <p class="Numero">
+            84</p>
+        <p class="masa atomica">
+            (210)</p>
+        <p class="Simbolo">
+            Po</p>
+        <p class="nombre">
+            Polonio</p>
+    </div>
+    <div class="otrosmetales" id="eql79">
+        <p class="Numero">
+            116</p>
+        <p class="masa atomica">
+            (292)</p>
+        <p class="Simbolo">
+            Lv</p>
+        <p class="nombre">
+            Livermorio</p>
+    </div>
+    <!---septimaadecima columna -->
+
+    <div class="halogenos" id="eql80">
+        <p class="Numero">
+            9</p>
+        <p class="masa atomica">
+            18.998403</p>
+        <p class="Simbolo">
+            F</p>
+        <p class="nombre">
+            Fluor</p>
+    </div>
+    <div class="halogenos" id="eql81">
+        <p class="Numero">
+            17</p>
+        <p class="masa atomica">
+            35.453</p>
+        <p class="Simbolo">
+            Cl</p>
+        <p class="nombre">
+            Zirconio</p>
+    </div>
+    <div class="halogenos" id="eql82">
+        <p class="Numero">
+            35</p>
+        <p class="masa atomica">
+            79.904</p>
+        <p class="Simbolo">
+            Br</p>
+        <p class="nombre">
+            Bromo</p>
+    </div>
+    <div class="halogenos" id="eql83">
+        <p class="Numero">
+            53</p>
+        <p class="masa atomica">
+            126.9044</p>
+        <p class="Simbolo">
+            I</p>
+        <p class="nombre">
+            Yodo</p>
+    </div>
+    <div class="halogenos" id="eql85">
+        <p class="Numero">
+            85</p>
+        <p class="masa atomica">
+            (210)</p>
+        <p class="Simbolo">
+            At</p>
+        <p class="nombre">
+            Astato</p>
+    </div>
+    <div class="halogenos" id="eql86">
+        <p class="Numero">
+            117</p>
+        <p class="masa atomica">
+            (294)</p>
+        <p class="Simbolo">
+            Ts</p>
+        <p class="nombre">
+            Teneso</p>
+    </div>
+
+
+
+    <!---octavadecima columna -->
+    <div class="gasesnobles" id="eql87">
+        <p class="Numero">
+            2</p>
+        <p class="masa atomica">
+            4.002602</p>
+        <p class="Simbolo">
+            He</p>
+        <p class="nombre">
+            Helio</p>
+    </div>
+    <div class="gasesnobles" id="eql88">
+        <p class="Numero">
+            10</p>
+        <p class="masa atomica">
+            20.1797</p>
+        <p class="Simbolo">
+            Ne</p>
+        <p class="nombre">
+            Neon</p>
+    </div>
+    <div class="gasesnobles" id="eql89">
+        <p class="Numero">
+            18</p>
+        <p class="masa atomica">
+            39.948</p>
+        <p class="Simbolo">
+            Ar</p>
+        <p class="nombre">
+            Argon</p>
+    </div>
+    <div class="gasesnobles" id="eql90">
+        <p class="Numero">
+            36</p>
+        <p class="masa atomica">
+            83.798</p>
+        <p class="Simbolo">
+            Kr</p>
+        <p class="nombre">
+            Kripton</p>
+    </div>
+    <div class="gasesnobles" id="eql91">
+        <p class="Numero">
+            54</p>
+        <p class="masa atomica">
+            131.293</p>
+        <p class="Simbolo">
+            Xe</p>
+        <p class="nombre">
+            Xenon</p>
+    </div>
+    <div class="gasesnobles" id="eql92">
+        <p class="Numero">
+            86</p>
+        <p class="masa atomica">
+            (220)</p>
+        <p class="Simbolo">
+            Rn</p>
+        <p class="nombre">
+            Radon</p>
+    </div>
+    <div class="gasesnobles" id="eql93">
+        <p class="Numero">
+            118</p>
+        <p class="masa atomica">
+            (294)</p>
+        <p class="Simbolo">
+            Og</p>
+        <p class="nombre">
+            Oganesón</p>
+    </div>
+
+    <!---primera y segunda columna debajo -->
+    <div class="lantánidos" id="eql106">
+        <p class="Numero">57</p>
+        <p class="masa atomica">138.9054</p>
+        <p class="Simbolo">La</p>
+        <p class="nombre">Lantano</p>
+    </div>
+    <div class="actínidos" id="eql107">
+        <p class="Numero">89</p>
+        <p class="masa atomica">(227)</p>
+        <p class="Simbolo">Ac</p>
+        <p class="nombre">Actinio</p>
+    </div>
+    <div class="lantánidos" id="eql108">
+        <p class="Numero">58</p>
+        <p class="masa atomica">140.116</p>
+        <p class="Simbolo">Ce</p>
+        <p class="nombre">Cerio</p>
+    </div>
+    <div class="actínidos" id="eql109">
+        <p class="Numero">90</p>
+        <p class="masa atomica">232.0380</p>
+        <p class="Simbolo">Th</p>
+        <p class="nombre">Torio</p>
+    </div>
+    <div class="lantánidos" id="eql110">
+        <p class="Numero">59</p>
+        <p class="masa atomica">140.9076</p>
+        <p class="Simbolo">Pr</p>
+        <p class="nombre">Praseodimio</p>
+    </div>
+    <div class="actínidos" id="eql111">
+        <p class="Numero">91</p>
+        <p class="masa atomica">231.0358</p>
+        <p class="Simbolo">Pa</p>
+        <p class="nombre">Protactinio</p>
+    </div>
+    <div class="lantánidos" id="eql112">
+        <p class="Numero">60</p>
+        <p class="masa atomica">144.242</p>
+        <p class="Simbolo">Nd</p>
+        <p class="nombre">Neodimio</p>
+    </div>
+    <div class="actínidos" id="eql113">
+        <p class="Numero">92</p>
+        <p class="masa atomica">238.0289</p>
+        <p class="Simbolo">U</p>
+        <p class="nombre">Uranio</p>
+    </div>
+    <div class="lantánidos" id="eql114">
+        <p class="Numero">61</p>
+        <p class="masa atomica">(145)</p>
+        <p class="Simbolo">Pm</p>
+        <p class="nombre">Prometio</p>
+    </div>
+    <div class="actínidos" id="eql115">
+        <p class="Numero">93</p>
+        <p class="masa atomica">(237)</p>
+        <p class="Simbolo">Np</p>
+        <p class="nombre">Neptunio</p>
+    </div>
+    <div class="lantánidos" id="eql116">
+        <p class="Numero">62</p>
+        <p class="masa atomica">150.36</p>
+        <p class="Simbolo">Sm</p>
+        <p class="nombre">Samario</p>
+    </div>
+    <div class="actínidos" id="eql117">
+        <p class="Numero">94</p>
+        <p class="masa atomica">(244)</p>
+        <p class="Simbolo">Pu</p>
+        <p class="nombre">Plutonio</p>
+    </div>
+    <div class="lantánidos" id="eql118">
+        <p class="Numero">63</p>
+        <p class="masa atomica">151.964</p>
+        <p class="Simbolo">Eu</p>
+        <p class="nombre">Europio</p>
+    </div>
+    <div class="actínidos" id="eql119">
+        <p class="Numero">95/p>
+            <p class="masa atomica">(243)</p>
+            <p class="Simbolo">Am</p>
+            <p class="nombre">Americio</p>
+    </div>
+
+    <div class="lantánidos" id="eql120">
+        <p class="Numero">64</p>
+        <p class="masa atomica">157.25</p>
+        <p class="Simbolo">Gd</p>
+        <p class="nombre">Gadolinio</p>
+    </div>
+    <div class="actínidos" id="eql121">
+        <p class="Numero">40</p>
+        <p class="masa atomica">91.224</p>
+        <p class="Simbolo">Zr</p>
+        <p class="nombre">Zirconio</p>
+    </div>
+    <div class="lantánidos" id="eql122">
+        <p class="Numero">40</p>
+        <p class="masa atomica">91.224</p>
+        <p class="Simbolo">Zr</p>
+        <p class="nombre">Zirconio</p>
+    </div>
+    <div class="actínidos" id="eql123">
+        <p class="Numero">40</p>
+        <p class="masa atomica">91.224</p>
+        <p class="Simbolo">Zr</p>
+        <p class="nombre">Zirconio</p>
+    </div>
+    <div class="lantánidos" id="eql124">
+        <p class="Numero">40</p>
+        <p class="masa atomica">91.224</p>
+        <p class="Simbolo">Zr</p>
+        <p class="nombre">Zirconio</p>
+    </div>
+    <div class="actínidos" id="eql125">
+        <p class="Numero">40</p>
+        <p class="masa atomica">91.224</p>
+        <p class="Simbolo">Zr</p>
+        <p class="nombre">Zirconio</p>
+    </div>
+    <div class="lantánidos" id="eql126">
+        <p class="Numero">40</p>
+        <p class="masa atomica">91.224</p>
+        <p class="Simbolo">Zr</p>
+        <p class="nombre">Zirconio</p>
+    </div>
+    <div class="actínidos" id="eql127">
+        <p class="Numero">40</p>
+        <p class="masa atomica">91.224</p>
+        <p class="Simbolo">Zr</p>
+        <p class="nombre">Zirconio</p>
+    </div>
+    <div class="lantánidos" id="eql128">
+        <p class="Numero">40</p>
+        <p class="masa atomica">91.224</p>
+        <p class="Simbolo">Zr</p>
+        <p class="nombre">Zirconio</p>
+    </div>
+    <div class="actínidos" id="eql129">
+        <p class="Numero">40</p>
+        <p class="masa atomica">91.224</p>
+        <p class="Simbolo">Zr</p>
+        <p class="nombre">Zirconio</p>
+    </div>
+    <div class="lantánidos" id="eql130">
+        <p class="Numero">40</p>
+        <p class="masa atomica">91.224</p>
+        <p class="Simbolo">Zr</p>
+        <p class="nombre">Zirconio</p>
+    </div>
+    <div class="actínidos" id="eql131">
+        <p class="Numero">40</p>
+        <p class="masa atomica">91.224</p>
+        <p class="Simbolo">Zr</p>
+        <p class="nombre">Zirconio</p>
+    </div>
+    <div class="lantánidos" id="eql132">
+        <p class="Numero">40</p>
+        <p class="masa atomica">91.224</p>
+        <p class="Simbolo">Zr</p>
+        <p class="nombre">Zirconio</p>
+    </div>
+    <div class="actínidos" id="eql133">
+        <p class="Numero">40</p>
+        <p class="masa atomica">91.224</p>
+        <p class="Simbolo">Zr</p>
+        <p class="nombre">Zirconio</p>
+    </div>
+
+    <!---cuadro del centro -->
+    <table class="metalesdetransicion" id="eql94">
+
+        <tr>
+            <td>
+                <h1 class="Numeros">26</h1>
+                <h1 class="masaatomicas">55.845</h1>
+                <h1 class="Simbolos">Fe</h1>
+                <h1 class="nombres">Hierro</h1>
+            </td>
+        </tr>
+
+    </table>
+
+    <!---cuadritos de representacion de los elementos -->
+    <form class="alcalino" id="eql95">
+    </form>
+    <form class="alcalinot�rreos" id="eql96">
+    </form>
+    <form class="otrosmetales" id="eql97">
+    </form>
+    <form class="metalesdetransicion" id="eql98">
+    </form>
+    <form class="lantánidos" id="eql99">
+    </form>
+    <form class="actínidos" id="eql100">
+    </form>
+    <form class="metaloides" id="eql101">
+    </form>
+    <form class="nometales" id="eql102">
+    </form>
+    <form class="halogenos" id="eql103">
+    </form>
+    <form class="gasesnobles" id="eql104">
+    </form>
+    <form class="elementosdesconocidos1" id="eql105">
+    </form>
+
+
+    <!---numeracion de las columnas y filas de los bordes de la tabla periodica y textos del centro -->
+    <p class="grupo">grupo 1 </p>
+    <p class="columna2"> 2 </p>
+    <p class="columna3">3</p>
+    <p class="columna4">4 </p>
+    <p class="columna5">5</p>
+    <p class="columna6">6 </p>
+    <p class="columna7">7</p>
+    <p class="columna8">8 </p>
+    <p class="columna9">9 </p>
+    <p class="columna10">10 </p>
+    <p class="columna11">11 </p>
+    <p class="columna12">12 </p>
+    <p class="columna13">13 </p>
+    <p class="columna14">14 </p>
+    <p class="columna15">15 </p>
+    <p class="columna16">16 </p>
+    <p class="columna17">17 </p>
+    <p class="columna18">18 </p>
+    <p class="periodo">periodo 1 </p>
+    <p class="numero2"> 2</p>
+    <p class="numero3"> 3</p>
+    <p class="numero4"> 4</p>
+    <p class="numero5"> 5</p>
+    <p class="numero6"> 6</p>
+    <p class="numero7"> 7</p>
+    <h2 class="Nombre1"> Nombre---</h2>
+    <h2 class="Masaatomica1"> masa atómica---</h2>
+    <h2 class="simboloquimico">símbolo químico--</h2>
+    <h2 class="numeroatomico"> --número atómico</h2>
+    <h3 class="metalesalcalinos">metales alcalinos</h3>
+    <h3 class="alcalinotérreos">alcalinotérreos</h3>
+    <h3 class="otrosmetales1">otros metales</h3>
+    <h3 class="metalesdetransición">metales de transición</h3>
+    <h3 class="lantánidos1">lantánidos</h3>
+    <h3 class="actínidos1">actínidos</h3>
+    <h3 class="metaloides1">metaloides</h3>
+    <h3 class="nometales1">no metales</h3>
+    <h3 class="halogenos1">halógenos</h3>
+    <h3 class="gasesnobles1">gases nobles</h3>
+    <h3 class="elementosdesconocidos">elementos <br> desconocidos</h3>
+
+</body>
+
+</html>
